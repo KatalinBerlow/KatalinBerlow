@@ -1,8 +1,18 @@
-<div>
-<div>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Katalin Berlow</title>
+  <link rel="stylesheet" type="text/css" href="style2.css">
+
+  <meta name="author" content="Katalin Berlow">
+  <meta name="description" content="Department of Mathematics, Carnegie Mellon University">
+  <meta name="keywords" content="Katalin Berlow">
+</head>
+
+<body>
+  <div id="container">
+    <div id="banner">
 <h1>Katalin Berlow</h1>
 </div>
-<div>
+<div id="nav">
 <ul>
 <li><a href="index.html">Home</a></li>
 <li><a href="research.html">Research</a></li>
@@ -12,18 +22,19 @@
 <li><a href="activities.html">Activities</a></li>
 </ul>
 </div>
-<div>
-<div>
-<div><img src="me.jpg" alt="Katalin Berlow" width="300" /></div>
+<div id="page">
+<div id="content">
+<div id="photo"><img src="me.jpg" alt="Katalin Berlow" width="300" /></div>
 <p>I am A first year graduate student in the mathematics department at <a href="https://math.berkeley.edu/">UC Berkeley</a>. My intrests include algebraic combinatorics, convex geometry, extremal graph theory, and descriptive set theory. Other than math, my hobbies include board games, <a href="Art.html">Painting</a>, and clarinet.</p>
 <ul>
-<li><strong>Email address:</strong> first name at berkeley dot edu</li>
+<li><strong>Email address:</strong> kberlow at andrew dot cmu dot edu</li>
 <li><a href="cv.pdf">CV</a></li>
 </ul>
 </div>
 </div>
-<div>
 <h1>Teaching</h1>
+<div id="page">
+  <div id="content"><hr style="background-color: #007399; width: 100%; height: 2px;" /><a name="papers"></a>
 <div><hr />
 <h2>Carnegie Mellon University</h2>
 <ul>
