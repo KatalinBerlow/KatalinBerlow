@@ -8,7 +8,7 @@ color:#007399;
 
 
 a:hover {
-color:#007399;
+color:#023546;
 cursor:pointer
 }
 
@@ -117,7 +117,7 @@ overflow: hidden;
 #nav {
 overflow:hidden;
 width:800px;
-background-color: #ccf2ff;
+background-color: #ffcce6;
 }
 
 #nav ul {
