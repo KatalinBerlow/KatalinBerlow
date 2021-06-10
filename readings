@@ -1,0 +1,70 @@
+<div>
+<div>
+<h1>Katalin Berlow</h1>
+</div>
+<div>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="talks.html">Talks</a></li>
+<li><a href="teaching.html">Teaching</a></li>
+<li><a href="readings.html">Readings</a></li>
+<li><a href="activities.html">Activities</a></li>
+</ul>
+</div>
+<div>
+<div>
+<div><img src="me.jpg" alt="Katalin Berlow" width="300" /></div>
+<p>I am A first year graduate student in the mathematics department at <a href="https://math.berkeley.edu/">UC Berkeley</a>. My intrests include algebraic combinatorics, convex geometry, extremal graph theory, and descriptive set theory. Other than math, my hobbies include board games, <a href="Art.html">Painting</a>, and clarinet.</p>
+<ul>
+<li><strong>Email address:</strong> first name at berkeley dot edu</li>
+<li><a href="cv.pdf">CV</a></li>
+</ul>
+</div>
+</div>
+<div>
+<h1>Books I have read</h1>
+<div><hr /><a name="papers"></a>
+<h2>Analysis</h2>
+<ul>
+<ul>
+<li><em>Methods of Mathematical Physics: Functional Analysis</em> by Reed and Simon. (Chapters I - VII)</li>
+<li><em> Lie Groups, Lie Algebras, and Representations</em> by Hall (Chapters 1-5)</li>
+</ul>
+</ul>
+<h2>Combinatorics</h2>
+<ul>
+<ul>
+<li><em>Discrete Mathematics</em> by Lovasz (Chapters 1-6)</li>
+<li><em>Generatingfunctionology </em> by Wilf (Chapters 1-3)</li>
+<li><em> Enumerative Combinatorics</em> by Stanley (Chapters 1-2)</li>
+<li><em> Algebraic Combinatorics</em> by Stanley (All)</li>
+<li><em> The Probablistic Method</em> by Alon and Spencer (Chapters 1-4)</li>
+</ul>
+</ul>
+<h2>Geometry</h2>
+<ul>
+<ul>
+<li><em>Geometric Topography</em> by Gardener *Currently Reading*</li>
+<li><em> Nonlinear Algebra</em> by Sturmfels (Chapters 1-3) *Currently Reading*</li>
+</ul>
+</ul>
+<h2>Logic</h2>
+<ul>
+<ul>
+<li><em> Model Theory</em> by Marker (Chapters 1-3)</li>
+<li><em>Classical Descriptive Set Theory</em> (Chapters 1-22)</li>
+<li><em> Set Theory</em> by Kunen (Chapters I-VII)</li>
+<li><em>A Course on Set Theory</em> by Schimmerling (Chapters 1-7)</li>
+</ul>
+</ul>
+<h2>Topology</h2>
+<ul>
+<ul>
+<li><em>Algebraic Topology</em> by Hatcher (Chapters 0-3)</li>
+<li><em>Differential Topology</em> by Guilliman and Pollack. (Chapter 1) *Currently Reading*</li>
+</ul>
+</ul>
+</div>
+</div>
+</div>
