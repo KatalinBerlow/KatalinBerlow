@@ -1,0 +1,35 @@
+<div>
+<div>
+<h1>Katalin Berlow</h1>
+</div>
+<div>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="talks.html">Talks</a></li>
+<li><a href="teaching.html">Teaching</a></li>
+<li><a href="readings.html">Readings</a></li>
+<li><a href="activities.html">Activities</a></li>
+</ul>
+</div>
+<div>
+<div>
+<div><img src="me.jpg" alt="Katalin Berlow" width="300" /></div>
+<p>I am A first year graduate student in the mathematics department at <a href="https://math.berkeley.edu/">UC Berkeley</a>. My intrests include algebraic combinatorics, convex geometry, extremal graph theory, and descriptive set theory. Other than math, my hobbies include board games, <a href="Art.html">Painting</a>, and clarinet.</p>
+<ul>
+<li><strong>Email address:</strong> first name at berkeley dot edu</li>
+<li><a href="cv.pdf">CV</a></li>
+</ul>
+</div>
+</div>
+<div>
+<h1>Teaching</h1>
+<div><hr />
+<h2>Carnegie Mellon University</h2>
+<ul>
+<li>In Spring 2020, I was a Teaching Assistant and Recitation Instructor for 21-127 Concepts of Mathematics at Carnegie Mellon University. The course covered basic logic, set theory, proof techniques, cardinality, functions, combinatorics, probability, and elementary number theory.</li>
+<li>In Summer 2019, I was a Teaching Assistant for 33-106 Physics I for Engineering Students.</li>
+</ul>
+</div>
+</div>
+</div>
